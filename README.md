@@ -1,1 +1,1 @@
-# Dicee-Game
+A simple website that uses Javascript to add behaviour, so that you are able to play a dice game on it. There are two dices. When clicking on refresh, each dice with be thrown randomly. It will announce the winner of the player based on the values of the two dices.
